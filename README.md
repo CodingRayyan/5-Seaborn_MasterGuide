@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/f2cf1e85-9ac9-4275-99a3-146ad0c21ee8)
+
 # Seaborn_MasterGuide
 
 A **Free of Cost** Professional guide for you to master the **Seaborn Codes**
@@ -92,6 +94,6 @@ Learn how to control the aesthetics of your plots to make them more appealing an
 - [Seaborn Cheatsheet](https://datacarpentry.org/python-ecology-lesson/09-seaborn/)
 - [Matplotlib Official Documentation](https://matplotlib.org/stable/contents.html) (for reference on integration with Seaborn)
 
-## Quote
+## Today's Quote
 
 "Programs must be written for people to read, and only incidentally for machines to execute." — Harold Abelson, 👨‍🏫 Professor of Electrical Engineering and Computer Science at MIT, and co-author of "Structure and Interpretation of Computer Programs" 📘
